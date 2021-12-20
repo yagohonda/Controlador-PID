@@ -1,2 +1,2 @@
 # Controlador-PID
-Simulação de um sistema de controle guiando um parapente para uma área de pouso específica (MATLAB/SIMULINK)
+Simulação de um sistema de controle guiando um parapente para uma área de pouso específica (MATLAB/SIMULINK).Simulação realizada no meu trabalho de conclusão de curso em Engenharia Aeroespacial pela Universidade de Brasília. O contexto da simulação imagina um cenário de uma carga sendo lançada de uma alta altitude, sujeita a ação dos ventos, com o objetivo de pousar em uma área predeterminada. 
